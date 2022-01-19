@@ -1,0 +1,4 @@
+com/dev/simpleapi/controller/PessoaController.class
+com/dev/simpleapi/repository/PessoaRepository.class
+com/dev/simpleapi/SimpleApiApplication.class
+com/dev/simpleapi/model/Pessoa.class
